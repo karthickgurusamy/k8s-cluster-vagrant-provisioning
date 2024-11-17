@@ -2,7 +2,7 @@
 
 ## Prerequisites:
 
-1. isntall virtualbox - https://www.virtualbox.org/wiki/Downloads
+1. install virtualbox - https://www.virtualbox.org/wiki/Downloads
 2. instal vagrant - https://www.vagrantup.com/downloads
 
 ## Step to configure k8s cluster using vagrant
